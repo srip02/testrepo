@@ -1,9 +1,5 @@
 #include <stdio.h>
 int main(void){
-<<<<<<< HEAD
-	printf("hello");
-=======
-	printf("hello world.\n");
->>>>>>> changed printing
+	printf("hello world again!\n");
 	return 0;
 }
