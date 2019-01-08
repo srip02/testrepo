@@ -1,5 +1,10 @@
 #include <stdio.h>
-int main(void){
+
+void printit(){
+
 	printf("hello world again!\n");
+}
+int main(void){
+	printit();
 	return 0;
 }
